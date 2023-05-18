@@ -22,7 +22,7 @@ An example of how Insertion Sort works:
 Pseudocode for Insertion Sort:
 
 pseudocode
-Copy code
+```
 function insertionSort(A)
     for i from 2 to length(A)
         key = A[i]
@@ -36,7 +36,7 @@ function insertionSort(A)
         A[j+1] = key
     end for
 end function
-
+```
 
 
 
